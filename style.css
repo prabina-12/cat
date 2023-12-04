@@ -1,0 +1,15 @@
+/*  */
+h1{
+    color: brown;
+}
+div{
+    border: 1px solid red;
+    width: 300px;
+    left: 300px;
+    position: relative;
+    background-color: bisque;
+}
+img{
+    border: 1px solid red;
+    border-radius: 50%;
+}
